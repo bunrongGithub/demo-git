@@ -31,4 +31,4 @@ let result = check ? "Check is true" : " Check is false";
 console.log(result);
 
 
-
+let object = {};
